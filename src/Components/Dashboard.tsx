@@ -1,8 +1,9 @@
+import Header from "../Ui/Header"
 
 const Dashboard = () => {
   return (
     <div>
-      dashboard in dev
+      <Header/>
     </div>
   )
 }
